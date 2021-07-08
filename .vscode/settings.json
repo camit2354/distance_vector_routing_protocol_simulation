@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "Rname",
+        "nbrs",
+        "neibhours",
+        "rcvd",
+        "updation",
+        "updtd"
+    ],
+    "python.formatting.provider": "black"
+}
